@@ -23,7 +23,7 @@ uvicorn main:app --reload
 | 2.1 | Отзывы (базовая) | `/feedback` | POST |
 | 2.2* | Валидация отзывов | `/feedback` | POST |
 
-##Скрины выполненной работы
+## Скрины выполненной работы
 1.1 
 <img width="784" height="563" alt="{AF133A6C-9148-4CCE-903F-2DB235A9E012}" src="https://github.com/user-attachments/assets/467b18ff-cd4a-4814-b948-89af60e4e574" />
 1.2
