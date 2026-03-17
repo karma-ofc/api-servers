@@ -1,5 +1,6 @@
 Работоспособность API
 <img width="558" height="127" alt="{D22C86C4-B4D3-4CC4-A276-6E4919ED75CC}" src="https://github.com/user-attachments/assets/63876d4d-24cc-4af2-8a46-11a9ad63fe9b" />
+
 Задание 3.1
 Создание пользователя
 <img width="936" height="652" alt="image" src="https://github.com/user-attachments/assets/61d51af8-33d1-472e-ad90-127872c24c15" />
