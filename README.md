@@ -1,4 +1,4 @@
-<img width="940" height="606" alt="image" src="https://github.com/user-attachments/assets/cb4a487d-bcab-406b-83a2-0ae8ea05b8fb" />Работоспособность API
+Работоспособность API
 <img width="558" height="127" alt="{D22C86C4-B4D3-4CC4-A276-6E4919ED75CC}" src="https://github.com/user-attachments/assets/63876d4d-24cc-4af2-8a46-11a9ad63fe9b" />
 Задание 3.1
 Создание пользователя
